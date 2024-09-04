@@ -1,3 +1,12 @@
+## Tugas 3
+Nama : Raihan Faiz Ramadhan
+
+NIM: 09011182328093
+
+Kelas: SK3C
+
+MK: Sistem Operasi (Praktikum) 
+
 #  Daftar 50 perintah pada Linux
 1.	Command "whoami" pada Linux ![1](https://github.com/RaihanFaiz165/Raihan-Faiz-Ramadhan_09011182328093_SK3C_Tugas-3_Sistem-Operasi/blob/main/Gambar%20perintah%20pada%20linux/1.png)
 
